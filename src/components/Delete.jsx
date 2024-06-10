@@ -1,9 +1,10 @@
 import React from 'react'
+import NavBar from './NavBar'
 
 const Delete = () => {
     return (
         <div>
-
+<NavBar/>
             <div className="container">
                 <div className="row g-3">
                     <h2><center>Delete Student</center></h2>

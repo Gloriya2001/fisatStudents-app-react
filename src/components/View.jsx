@@ -1,9 +1,10 @@
 import React from 'react'
+import NavBar from './NavBar'
 
 const View = () => {
   return (
     <div>
-
+<NavBar/>
 <div className="container">
     <div className="row">
         <h2><center>Student Detail</center></h2>
